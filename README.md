@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: George William Jilich (A.K.A GW)
 
 ## DUE: 31 Aug 2017
 
