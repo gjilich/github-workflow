@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+}
+h1 {
+    font-size: 72px;
+    font-family: 'Pacifico', cursive;
+}
+
+table, th, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: aqua;
+}
